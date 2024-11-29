@@ -50,7 +50,8 @@ O projeto Mestre dos Duelos RPG foi desenvolvido utilizando as seguintes tecnolo
 
 🔹 Video
 
-https://github.com/user-attachments/assets/11a366d0-36e0-4f16-8c9f-af6d5df0a6ea
+https://github.com/user-attachments/assets/7f2dab2a-185a-4396-a8d0-82f2a347a955
+
 
 ---
 
